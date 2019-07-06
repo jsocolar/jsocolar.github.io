@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yjUcJPsAAAAJ&hl=en"
   email            : jacob.socolar@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # "https://www.researchgate.net/profile/Jacob_Socolar?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,10 +100,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9126-9093"
+  orcid            : #"https://orcid.org/0000-0002-9126-9093"
   pinterest        :
   publons          : "https://publons.com/researcher/1239061/jacob-socolar/" 
   soundcloud       :
