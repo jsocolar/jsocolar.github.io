@@ -17,7 +17,13 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
+
+  - title: "Software"
+    url: /software/
     
+  - title: "About"
+    url: /
+
   - title: "Links"
     url: /links/
     
