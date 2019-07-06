@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jacob B. Socolar / Jacob B. Socolar"
+title                    : "Jacob B. Socolar"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jacob B. Socolar"
 description              : &description "academic website"
 url                      : https://jsocolar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : JacobSocolar
 facebook:
   username               :
   app_id                 :
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Jacob Socolar"
+  avatar           : "me.jpg"
   bio              : "Distributional Ecology, Ornithology, Tropical Forests, Conservation"
   location         : 
   employer         :
@@ -103,13 +103,14 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9126-9093"
   pinterest        :
+  publons.         : "https://publons.com/researcher/1239061/jacob-socolar/" 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "JacobSocolar"
   vine             :
   weibo            :
   xing             :
