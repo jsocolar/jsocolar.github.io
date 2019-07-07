@@ -3,6 +3,9 @@ permalink: /links/
 title: "Links"
 excerpt: "links"
 author_profile: true
+redirect_from: 
+  - /links
+  - /links.html
 image:
  feature: topbar_siraTeam.jpg
 ---
