@@ -1,5 +1,5 @@
 ---
-permalink: /links
+permalink: /links/
 title: "Links"
 excerpt: "links"
 author_profile: true
