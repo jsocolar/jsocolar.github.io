@@ -21,5 +21,5 @@ Occupancy models are commonly parameterized via a latent occupancy state, but ma
 <a href="https://www.xeno-canto.org"><img src="/images/xc_logo.png" alt="Xeno Canto" style="float:left;width:110px;height:77px;padding:7px 40px 1px 1px;"></a>
 [Xeno Canto](www.xeno-canto.org) is an online database of recordings of wild bird vocalizations, housing over 450,000 recordings comprising over 10,000 species represented. I’ve contributed a couple of interesting cuts, including this [Sira Curassow](https://www.xeno-canto.org/62321).
 
-<a href="https://www.xeno-canto.org"><img src="/images/Neotropical_birds.png" alt="Neotropical Birds" style="float:left;width:110px;height:77px;padding:7px 40px 1px 1px;"></a>
+<a href="https://neotropical.birds.cornell.edu/"><img src="/images/Neotropical_birds.png" alt="Neotropical Birds" style="float:left;width:110px;height:77px;padding:7px 40px 1px 1px;"></a>
 [Neotropical Birds Online](https://neotropical.birds.cornell.edu/) is a free online encyclopedia of all birds that occur in the new-world tropics. I wrote the account for [Mishana Tyrannulet](https://neotropical.birds.cornell.edu/Species-Account/nb/species/mistyr1/overview).
