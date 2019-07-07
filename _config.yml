@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jacob B. Socolar"
+title                    : "birds in a changing world"
 title_separator          : "-"
 name                     : &name "Jacob B. Socolar"
 description              : &description "academic website"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jacob Socolar"
+  name             : "Jacob B Socolar"
   avatar           : "me.jpg"
-  bio              : "Quantitative Ecology, Species Distributions, Ornithology, Conservation"
+  bio              : "Quantitative Ecology, Ornithology, Conservation"
   location         : 
   employer         :
   pubmed           :
