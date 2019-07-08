@@ -9,7 +9,7 @@ redirect_from:
 image:
  feature: topbar_manuCanoe.jpg
 ---
-Most of my work deals with big questions—not just important, but physically big. My core interests include the spatial scaling of biodiversity loss, range-wide responses of species to climate change, and the biogeographic predictability of how biodiversity responds to anthropogenic pressures. Traction on these questions has been limited by the twin difficulties of obtaining and analyzing detailed ecological data across large spatial extents. Using a combination of extensive fieldwork, community science, and modern statistical practice, my research seeks to push the envelope by going big.
+Most of my work deals with big questions—not just important, but actually physically big. My core interests include the spatial scaling of biodiversity loss, range-wide responses of species to climate change, and the biogeographic predictability of how biodiversity responds to anthropogenic pressures. Traction on these questions has been limited by the twin difficulties of obtaining and analyzing detailed ecological data across large spatial extents. Using a combination of extensive fieldwork, community science, and modern statistical practice, my research seeks to push the envelope by going big.
 
 ## Agriculture & tropical biodiversity
 
