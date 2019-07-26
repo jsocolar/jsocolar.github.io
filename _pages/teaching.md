@@ -10,7 +10,7 @@ image:
  feature: topbar_manuCanoe.jpg
 ---
 
-
+I'm very excited to return to teaching undergraduate and graduate classes in the near future. Due to my extensive and irregular field schedule over the past 8 years, I have been better equipped to support scientific education via public outreach activities and via collaborations with young researchers in the places I work. 
 
 ## Teaching
 
