@@ -31,3 +31,4 @@ image:
 
 - __Socolar, S.J.__ and D. Wilcove. 2013.  Threatened Birds. In: Levin, S.A. (ed.) _Encyclopedia of Biodiversity, 2nd edition, Volume 7_, pp. 180-190. Waltham, Ma: Academic Press.
 - Lees, A.C. and __Socolar, J.B.__ 2016 “Will we soon see another wave of bird extinctions in the Americas?” _The Conversation_. [\[online\]](https://theconversation.com/will-we-soon-see-another-wave-of-bird-extinctions-in-the-americas-56795) Also run by [iflScience](https://www.iflscience.com/plants-and-animals/will-we-soon-see-another-wave-bird-extinctions-americas/), [Business Insider](https://www.businessinsider.com/were-could-soon-be-seeing-another-massive-wave-of-bird-extinction-2016-4).
+- __Socolar, J.__ (2018). Mishana Tyrannulet (Zimmerius villarejoi), version 1.0. In Neotropical Birds Online (T. S. Schulenberg, Editor). Cornell Lab of Ornithology, Ithaca, NY, USA. [Online](https://doi.org/10.2173/nb.mistyr1.01)
