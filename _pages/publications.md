@@ -14,7 +14,7 @@ image:
 
 ## Peer reviewed
 
-1. __Socolar, J.B.__, E.H. Valderrama Sandoval, and D.S. Wilcove. 2019. "Overlooked biodiversity loss in tropical smallholder agriculture." _Conservation Biology_ https://doi.org/10.1111/cobi.13344
+1. __Socolar, J.B.__, E.H. Valderrama Sandoval, and D.S. Wilcove. 2019. "Overlooked biodiversity loss in tropical smallholder agriculture." _Conservation Biology_ https://doi.org/10.1111/cobi.13344 [pdf]() [press](https://news.mongabay.com/2019/07/small-scale-farming-is-a-big-threat-to-biodiversity-in-the-western-amazon-study/)
 1. __Socolar, J.B.__ 2019. “First record of Snethlage’s Tody-Tyrant (Hemitriccus minor pallens) from Peru’s Nanay River basin. _Boletin UNOP_ 14: 6-7.
 1. __Socolar, J.B.__, J. Díaz-Alván, P. Saboya del Castillo, L. Pomara, B. O’Shea, S. Cubas Poclin, D. Stotz, F. Schmitt, D. Graham, B. Carnes, and E. Ruelas Inzunza. 2018. “Noteworthy bird records from northeastern Peru reveal connectivity and isolation in the western Amazonian avifauna.” _Wilson Journal of Ornithology_ 130: 94-111.
 1. __Socolar, J.B.__, P. Epanchin, S. Beissinger, and M.W. Tingley. 2017. “Phenological shifts conserve thermal niches in North American birds and reshape expectations for climate-driven range shifts.” _PNAS_ 114: 12976-12981.
