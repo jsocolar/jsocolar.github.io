@@ -28,4 +28,4 @@ Five principles summarize my overall approach:
 
 Under Construction
 
-<img src="images/izzy_canoe.jpg" alt="izzy" width="300"/>
+<p style="text-align:center;"><img src="images/izzy_canoe.jpg" alt="izzy" width="300"/>
