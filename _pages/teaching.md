@@ -14,12 +14,11 @@ Due to my extensive and irregular field schedule over the past 9 years, I have b
 
 ## Teaching
 Most of what I know about nature I learned in the field or from a tome on natural history. But most of how I think about the natural world I learned from my physicist father. The natural sciences taught me to scaffold my knowledge of natural history in the context of larger frameworks—evolution, biogeography, Earth science, physics—that transform a tangled bank of facts and observations into a beautiful and coherent picture of how life on Earth operates. As a teacher, my goal is to introduce and cement this mode of thinking for students who grew up with neither binocular-strap tans nor dinner-table physics talk. Five principles summarize my overall approach:
-
-1. Get outside
-2. Ask why
-3. Be quantitative
-4. Measure understanding
-5. Be inclusive
+1. **Get outside**
+1. **Ask why**
+1. **Be quantitative**
+1. **Measure understanding**
+1. **Be inclusive**
 
 ## Outreach
 
