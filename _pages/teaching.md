@@ -15,7 +15,7 @@ Due to my extensive and irregular field schedule over the past 9 years, I have b
 ## Teaching
 <p style="text-align:center;"><img src="images/bird-id-is-fun.jpg" alt="birdID" width="300"/>
 
-<p style="text-align:right;">Most of what I know about nature I learned in the field or from a tome on natural history. But most of how I think about the natural world I learned from my physicist father. The natural sciences taught me to scaffold my knowledge of natural history in the context of larger frameworks—evolution, biogeography, Earth science, physics—that transform a tangled bank of facts and observations into a beautiful and coherent picture of how life on Earth operates. As a teacher, my goal is to introduce and cement this mode of thinking for students who grew up with neither binocular-strap tans nor dinner-table physics talk. Five principles summarize my overall approach:
+<p style="text-align:left;">Most of what I know about nature I learned in the field or from a tome on natural history. But most of how I think about the natural world I learned from my physicist father. The natural sciences taught me to scaffold my knowledge of natural history in the context of larger frameworks—evolution, biogeography, Earth science, physics—that transform a tangled bank of facts and observations into a beautiful and coherent picture of how life on Earth operates. As a teacher, my goal is to introduce and cement this mode of thinking for students who grew up with neither binocular-strap tans nor dinner-table physics talk. Five principles summarize my overall approach:
 1. Get outside
 2. Ask why
 3. Be quantitative
