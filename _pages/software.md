@@ -9,4 +9,4 @@ redirect_from:
 image:
  feature: topbar_manuCanoe.jpg
 ---
-Under Construction
+I maintain [my code on Github](https://github.com/jsocolar). A couple of exciting projects are on the horizon, including the phylosympatry R package (in development) and perhaps a new R package for fitting occupancy models via Stan (in planning).
