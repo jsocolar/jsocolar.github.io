@@ -27,3 +27,5 @@ Five principles summarize my overall approach:
 ## Outreach
 
 Under Construction
+
+<img src="images/izzy_canoe.jpg" alt="izzy" width="300"/>
