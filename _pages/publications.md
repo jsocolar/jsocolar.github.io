@@ -14,8 +14,11 @@ image:
 
 ## Peer reviewed
 
-1. __Socolar, J.B.__ and D.S. Wilcove. _in press_. "Forest-type specialization strongly predicts avian responses to tropical agriculture." _Proc. Roy. Soc. B_  
-1. Edwards, D.P., __J.B Socolar__, S.C. Mills, Z. Burivalova, L.P. Koh, and D.S. Wilcove. _in press_. "Conservation of tropical forests in the Anthropocene." _Current Biology_
+1. Youngflesh, C., __J.B. Socolar__, B.R. Amaral, A. Arab, R.P. Guralnick, A.H. Hurlbert, R. LaFrance, S.J. Mayor, D.A.W. Miller, and M.W. Tingley. _in revision_ "Migratory strategy drives species-level variation in bird sensitivity to green-up." _Nature Ecology and Evolution_
+1. Draper, F.C. _et al_ (__J.B. Socolar__ eleventh of 142 authors, and one of 15 authors mentioned in contributions statement). _in revision_ "Amazonian tree dominance across forest strata." _Nature Ecology and Evolution_
+1. __Socolar, J.B.__ and D.S. Wilcove. 2019. "Forest-type specialization strongly predicts avian responses to tropical agriculture." _Proc. Roy. Soc. B_ 286: 20191724.
+1. Acevedo-Charry, O., F.A. Peña-Alzate, J. Beckers, M. Cabezas, B. Coral-Jaramillo, O. Janni, D. Ocampo, S.M Peñuela-Gomez, D. Rocha, __J.B. Socolar, and Z. Colón-Piñeiro. _in revision_ Avifauna del interfluvio de la cuenca media Caquetá-Putumayo (Japurá-Içá), al sur de la Amazonia colombiana y su respuesta a la huella humana. _Revista de la Academia Colombiana de Ciencies Exactas, Físicas y Naturales_
+1. Edwards, D.P., __J.B. Socolar__, S.C. Mills, Z. Burivalova, L.P. Koh, and D.S. Wilcove. _2019_. "Conservation of tropical forests in the Anthropocene." _Current Biology_ 29: R1008-R1020.
 1. __Socolar, J.B.__, E.H. Valderrama Sandoval, and D.S. Wilcove. 2019. "Overlooked biodiversity loss in tropical smallholder agriculture." _Conservation Biology_ https://doi.org/10.1111/cobi.13344 [\[pdf\]]() [\[press\]](https://news.mongabay.com/2019/07/small-scale-farming-is-a-big-threat-to-biodiversity-in-the-western-amazon-study/)
 1. __Socolar, J.B.__ 2019. “First record of Snethlage’s Tody-Tyrant (Hemitriccus minor pallens) from Peru’s Nanay River basin. _Boletin UNOP_ 14: 6-7. [\[pdf\]](https://boletinunop.weebly.com/uploads/6/2/2/6/62265985/boletin_unop_vol._14_n%C2%B01_2019_-_socolar.pdf)
 1. __Socolar, J.B.__, J. Díaz-Alván, P. Saboya del Castillo, L. Pomara, B. O’Shea, S. Cubas Poclin, D. Stotz, F. Schmitt, D. Graham, B. Carnes, and E. Ruelas Inzunza. 2018. “Noteworthy bird records from northeastern Peru reveal connectivity and isolation in the western Amazonian avifauna.” _Wilson Journal of Ornithology_ 130: 94-111.
