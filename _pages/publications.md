@@ -13,7 +13,9 @@ image:
 [Google Scholar](https://scholar.google.com/citations?user=yjUcJPsAAAAJ&hl=en) does a pretty good job tracking my publications. Here’s a self-maintained list:
 
 ## In review
+
 * Youngflesh, C., __J.B. Socolar__, B.R. Amaral, A. Arab, R.P. Guralnick, A.H. Hurlbert, R. LaFrance, S.J. Mayor, D.A.W. Miller, and M.W. Tingley. _in revision_ "Migratory strategy drives species-level variation in bird sensitivity to green-up." _Nature Ecology and Evolution_
+
 ## Peer reviewed
 
 1. Draper, F.C. _et al_ (__J.B. Socolar__ eleventh of 142 authors, and one of 15 authors mentioned in contributions statement). _in press_ "Amazonian tree dominance across forest strata." _Nature Ecology and Evolution_
