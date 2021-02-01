@@ -12,14 +12,13 @@ image:
 
 [Google Scholar](https://scholar.google.com/citations?user=yjUcJPsAAAAJ&hl=en) does a pretty good job tracking my publications. Here’s a self-maintained list:
 
-## In review
-
-* Youngflesh, C., __J.B. Socolar__, B.R. Amaral, A. Arab, R.P. Guralnick, A.H. Hurlbert, R. LaFrance, S.J. Mayor, D.A.W. Miller, and M.W. Tingley. _in revision_ "Migratory strategy drives species-level variation in bird sensitivity to green-up." _Nature Ecology and Evolution_
 
 ## Peer reviewed
 
+1. Youngflesh, C., __J.B. Socolar__, B.R. Amaral, A. Arab, R.P. Guralnick, A.H. Hurlbert, R. LaFrance, S.J. Mayor, D.A.W. Miller, and M.W. Tingley. _in press_ "Migratory strategy drives species-level variation in bird sensitivity to green-up." _Nature Ecology and Evolution_
 1. Draper, F.C. _et al_ (__J.B. Socolar__ eleventh of 142 authors, and one of 15 authors mentioned in contributions statement). _in press_ "Amazonian tree dominance across forest strata." _Nature Ecology and Evolution_
 1. Acevedo-Charry, O., F.A. Peña-Alzate, J. Beckers, M. Cabezas, B. Coral-Jaramillo, O. Janni, D. Ocampo, S.M Peñuela-Gomez, D. Rocha, __J.B. Socolar__, and Z. Colón-Piñeiro. _in press_ Avifauna del interfluvio de la cuenca media Caquetá-Putumayo (Japurá-Içá), al sur de la Amazonia colombiana y su respuesta a la huella humana. _Revista de la Academia Colombiana de Ciencies Exactas, Físicas y Naturales_
+1. Vasquez-Arevalo, F., R. Zarate-Gomez, __J.B. Socolar__, J. Diaz-Alvan, and P.E. Perez-Pena. 2020. "First record of the gray-legged tinamou, Crypturellus dude, and other poor-soil specialist birds from peatlands in the Putumayo River basin, Loreto, Peru." _Acta Amazonica_ 50: 155-158.
 1. __Socolar, J.B.__ and D.S. Wilcove. 2019. "Forest-type specialization strongly predicts avian responses to tropical agriculture." _Proc. Roy. Soc. B_ 286: 20191724.
 1. Edwards, D.P., __J.B. Socolar__, S.C. Mills, Z. Burivalova, L.P. Koh, and D.S. Wilcove. _2019_. "Conservation of tropical forests in the Anthropocene." _Current Biology_ 29: R1008-R1020.
 1. __Socolar, J.B.__, E.H. Valderrama Sandoval, and D.S. Wilcove. 2019. "Overlooked biodiversity loss in tropical smallholder agriculture." _Conservation Biology_ https://doi.org/10.1111/cobi.13344 [\[pdf\]]() [\[press\]](https://news.mongabay.com/2019/07/small-scale-farming-is-a-big-threat-to-biodiversity-in-the-western-amazon-study/)
