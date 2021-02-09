@@ -10,9 +10,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a quantitative ecologist, ornithologist, and conservation biologist. My work examines avian responses to global change at very large spatial scales. How does local-scale biodiversity change scale up to regional patterns? What can we learn about species' range shifts by examining demographic processes and population dynamics across their entire ranges? How does global change impact the timing long-distance bird migration along entire migratory routes? 
+I am a quantitative ecologist, ornithologist, and conservation biologist. My work examines avian responses to global change at very large spatial scales. Important patterns emerge at large spatial scales that are impossible to observer at smaller scales. For example, how does local-scale biodiversity change scale up to regional patterns? What can variation in demography across species' entire ranges teach us about responses to global change? How does global change impact the timing of spring migration along entire migratory routes? 
 
-Such questions are difficult to address because they require large volumes of taxonomically resolved data collected across vast spatial areas, and because the statistical challenges of working with appropriate-sized datasets can be formidable. My research combines cutting-edge statistics and high-performance computing, newly available "big data" from community science monitoring, and massive old-school field campaigns to crack some of the trickiest--but most rewarding--problems in applied ecology today.
+Answering such questions requires large volumes of taxonomically resolved data collected and analyzed across vast spatial areas. The twin challenges of data collection and data analysis at large scales are formidable. My research combines cutting-edge statistics and high-performance computing, newly available "big data" from community science monitoring, and massive old-school field campaigns to crack some of the trickiest--but most rewarding--problems in applied ecology today.
 
 I work on biodiversity change in the Amazon and Andes, distributional ecology of North American birds, and biodiversity and community structure in Amazonia. 
 
