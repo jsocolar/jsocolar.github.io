@@ -10,11 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a quantitative ecologist, ornithologist, and conservation biologist. My work examines avian responses to global change at very large spatial scales. Important patterns emerge at large spatial scales that are impossible to observer at smaller scales. For example, how does local-scale biodiversity change scale up to regional patterns? What can variation in demography across species' entire ranges teach us about responses to global change? How does global change impact the timing of spring migration along entire migratory routes? 
-
-Answering such questions requires large volumes of taxonomically resolved data collected and analyzed across vast spatial areas. The twin challenges of data collection and data analysis at large scales are formidable. My research combines cutting-edge statistics and high-performance computing, newly available "big data" from community science monitoring, and massive old-school field campaigns to crack some of the trickiest--but most rewarding--problems in applied ecology today.
-
-I work on biodiversity change in the Amazon and Andes, distributional ecology of North American birds, and biodiversity and community structure in Amazonia. 
+I am a quantitative ecologist, ornithologist, and conservation biologist. Most of my work deals with species and community-level responses to global change at very large spatial scales. Large-scale patterns can illuminate some of the most pressing challenges of our times. For example, to understand how species might respond to climate change, I study and compare demographic responses to temperature fluctuations across species' entire ranges. To inform progress towards global conservation targets I study biodiversity responses to land-use change over large areas--and these can differ substantially from average local-scale impacts! Gaining inferential traction on large-scale patterns and processes requires the tools to collect and analyze high-quality, taxonomically resolved data over vast areas. I combine cutting-edge statistics and high-performance computing, newly available "big data" from community-science monitoring, and massive old-school field campaigns to crack some of the trickiest--but most rewarding--problems in applied ecology today.
 
 When I'm not hard at work, I like being with my family and exploring outdoors for interesting birds and other critters. As my daughter grows up, these pursuits are increasingly compatible.
 
