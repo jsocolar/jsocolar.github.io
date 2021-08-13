@@ -9,6 +9,11 @@ redirect_from:
 image:
  feature: topbar_manuCanoe.jpg
 ---
-I maintain [my code on Github](https://github.com/jsocolar). A couple of exciting projects are on the horizon, including the phylosympatry R package (in development) and perhaps a new R package for fitting occupancy models via Stan (in planning).
+I code primarily in R and Stan, and I dabble in Python. 
 
-Some of my best code, which runs unpublished analyses on public datasets, is currently in private repositories and therefore not visible at the link above.  Of course it will be made public when the papers come out!
+<img src="/images/flocker_sticker.jpg" alt="flocker" style="float:left;width:200px;padding:7px 40px 1px 1px;">
+I am the author and maintainer of [R package `flocker`](https://github.com/jsocolar/flocker), a state-of-the-art package for occupancy modeling via `Stan` and `brms`. `flocker` is noteworthy for its flexibility to fit random effects (univariate and/or multivariate), phylogenetic models, generalized additive models, spatially autoregressive models, measurement error models, and more!
+
+I am a contributor to the [R package `posterior`](https://github.com/stan-dev/posterior), an integral part of the Stan ecosystem in R, and I have made minor contributions to additional Stan-related packages as well as to the documentation for Stan itself.
+
+I maintain [my scientific code on Github](https://github.com/jsocolar).
