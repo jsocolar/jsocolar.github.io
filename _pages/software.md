@@ -12,17 +12,11 @@ image:
 I code primarily in R and Stan, and I dabble in Python. 
 
 <img src="/images/flocker_sticker.png" alt="flocker" style="float:right;width:170px;padding:1px 1px 1px 40px;">
-I am the author and maintainer of [R package flocker](https://github.com/jsocolar/flocker), a state-of-the-art package for occupancy modeling via `Stan` and `brms`. `flocker` is noteworthy for its flexibility to fit random effects (univariate and/or multivariate), phylogenetic models, generalized additive models, spatially autoregressive models, measurement error models, and more!
+I am the author and maintainer of R package [flocker](https://github.com/jsocolar/flocker), a state-of-the-art package for occupancy modeling via `Stan` and `brms`. `flocker` is noteworthy for its flexibility to fit random effects (univariate and/or multivariate), phylogenetic models, generalized additive models, spatially autoregressive models, measurement error models, and more!
 
 
 
 <img src="/images/stanlogo.png" alt="Stan" style="float:right;width:170px;padding:1px 1px 1px 40px;">
-I am a contributor to the [R package posterior](https://github.com/stan-dev/posterior), an integral part of the Stan ecosystem in R, and I have made minor contributions to additional Stan-related packages as well as to the documentation for Stan itself.
-
-
-
-I also maintain a collection of vignettes and case-studies about topics in applied Bayesian inference:
-* Jacobian adjustments explained simply
-* Marginalized occupancy models
+I am a contributor to the R packages [posterior](https://github.com/stan-dev/posterior) and [cmdstanr](https://github.com/stan-dev/cmdstanr), which are core pieces of the Stan ecosystem in R, and I have made minor additional contributions to other parts of the Stan ecosystem.
 
 I maintain [my scientific code on Github](https://github.com/jsocolar).
