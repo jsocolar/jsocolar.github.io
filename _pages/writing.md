@@ -9,7 +9,11 @@ redirect_from:
 image:
  feature: topbar_manuCanoe.jpg
 ---
-I occasionally write about Bayesian statistics, occupancy modeling, and related topics, with a primary goal of demystifying some of the subtler points for an applied science audience. Here are some of the highlights:
+For my academic publications, see [Google Scholar](https://scholar.google.com/citations?user=yjUcJPsAAAAJ&hl=en).
+
+I occasionally write about Bayesian statistics, occupancy modeling, and related 
+topics, with a primary goal of demystifying some of the subtler points for an 
+applied science audience. Here are some of the highlights:
 
 [Jacobian adjustments explained simply](https://jsocolar.github.io/jacobians/)
 
