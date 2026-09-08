@@ -143,6 +143,10 @@ h2 {
   font-weight: 650;
 }
 
+.section-kicker h2 {
+  font-size: clamp(2.2rem, 4.2vw, 3.7rem);
+}
+
 h3 {
   color: var(--forest);
   font-size: 1rem;
@@ -457,7 +461,7 @@ h3 {
 
   .signal-panel {
     width: auto;
-    margin-top: -20px;
+    margin-top: 0;
   }
 
   .section-kicker {
