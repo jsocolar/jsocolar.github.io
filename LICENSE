@@ -1,5 +1,19 @@
+License scope
+
+Unless otherwise noted, the source code, templates, stylesheets, and site design
+implementation in this repository are licensed under the MIT License below.
+
+Site content, including text, images, photographs, biographical material, essays,
+publication descriptions, and other original writing by Jacob Socolar, is not
+licensed under the MIT License and is all rights reserved unless a page or file
+states otherwise.
+
+Portions of the legacy Jekyll/Minimal Mistakes theme remain copyright Michael
+Rose and contributors and are licensed under the MIT License.
+
 The MIT License (MIT)
 
+Copyright (c) 2026 Jacob Socolar
 Copyright (c) 2013-2020 Michael Rose and contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
